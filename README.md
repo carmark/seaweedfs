@@ -1,4 +1,4 @@
-# SeaweedFS
+# folked SeaweedFS
 
 [![Build Status](https://travis-ci.org/chrislusf/seaweedfs.svg?branch=master)](https://travis-ci.org/chrislusf/seaweedfs)
 [![GoDoc](https://godoc.org/github.com/chrislusf/seaweedfs/go?status.svg)](https://godoc.org/github.com/chrislusf/seaweedfs/go)
